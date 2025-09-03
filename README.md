@@ -87,6 +87,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🙏 Acknowledgments
 
-- Dataset provided by [Source Name, if available]
+- Dataset provided by Kaggle
 - Inspired by educational research on student performance predictors
 - Built with guidance from the data science community
