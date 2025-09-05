@@ -79,7 +79,7 @@ jupyter notebook
 
 **Alisha Rafique** 
 - Aspiring Data Scientist passionate about machine learning and its real-world applications.
-- Connect with me on [LinkedIn](https://linkedin.com/in/) or check out my other projects on [GitHub](https://github.com/AlishaRafique433)
+- Connect with me on [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/alisha-rafique-517480221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) or check out my other projects on [GitHub](https://github.com/AlishaRafique433)
 
 ## 📄 License
 
